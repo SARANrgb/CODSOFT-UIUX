@@ -20,3 +20,13 @@ Muthu Digitals Studio - Mobile App Signup Flow
 
 ## Internship
 CodSoft UI/UX Internship
+## Screenshots
+
+### Welcome Screen
+![Welcome](WELCOME.png)
+
+### Sign Up Screen
+![Sign Up](sign%20up.png)
+
+### Login Screen
+![Login](login.png)
