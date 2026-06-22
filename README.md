@@ -1,32 +1,45 @@
-# Mobile App Signup Flow
+# CODSOFT UI/UX Internship
 
-## Project
+## Task 1 - Mobile App Signup Flow
+
+### Project
 Muthu Digitals Studio - Mobile App Signup Flow
 
-## Tools Used
+### Tools Used
 - Figma
 - UI/UX Design
 
-## Screens
-1. Welcome Screen
-2. Sign Up Screen
-3. Login Screen
+### Screenshots
 
-## Features
-- Photography themed design
-- Custom branding
-- Interactive prototype
-- User-friendly interface
-
-## Internship
-CodSoft UI/UX Internship
-## Screenshots
-
-### Welcome Screen
+#### Welcome Screen
 ![Welcome](WELCOME.png)
 
-### Sign Up Screen
+#### Sign Up Screen
 ![Sign Up](sign%20up.png)
 
-### Login Screen
+#### Login Screen
 ![Login](login.png)
+
+---
+
+## Task 2 - Email Template Design
+
+### Project
+Muthu Digitals Studio - Promotional Email Template
+
+### Features
+- Studio Branding
+- Service Showcase
+- Photography Newsletter
+- Call To Action Buttons
+- Contact Information Footer
+
+### Preview
+
+![Email Template](email_template.png)
+
+---
+
+## Internship
+
+Completed as part of the CodSoft UI/UX Design Internship Program.
